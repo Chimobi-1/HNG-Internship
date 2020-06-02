@@ -1,2 +1,2 @@
-## My first commit on git-hub.
+My first commit on git-hub.
 Thanks to HNG internship
